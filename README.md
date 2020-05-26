@@ -1,3 +1,14 @@
+# Dr. Mascota
+
+This small app allow schedule pet medical appointments. The data save via localstorage.
+
+**Demo:** https://jleon253.github.io/dr-mascota/
+
+### Dev tools used:
+
+> - HTML, CSS, Bootstrap 4
+> - ES6, React.js 16.13.1 (Hooks)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
