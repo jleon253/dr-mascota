@@ -1,0 +1,21 @@
+/* .card:focus,
+.card:focus-within{
+  border: 2px solid green;
+} */
+
+.card.nuevaCita{
+  animation-name: nuevaCita;
+  animation-timing-function: ease-out;
+  animation-duration: 0.7s;
+  animation-iteration-count: 4;
+  animation-direction: alternate;
+}
+
+@keyframes nuevaCita {
+  from{
+    background-color: white;
+  }
+  to{
+    background-color: #a9ffbf;
+  }
+}
